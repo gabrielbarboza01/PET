@@ -28,7 +28,7 @@ Porjeto de web service.
 
 
 
-* Para entra no site é necessário usuário e senha, gentileza utilizar as credenciais abaixo:
+* Para entra no site é necessário usuário e senha, Por gentileza utilizar as credenciais abaixo:
 
-* login = user_test</br>
-* senha = user_test</br>
+* Login = user_test</br>
+* Senha = user_test</br>
